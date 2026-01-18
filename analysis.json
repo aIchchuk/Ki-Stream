@@ -1,0 +1,6 @@
+[info] 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss (D:\User Experience Ki Stream\KI Stream\kistream\lib\features\home\presentation\pages\main_shell.dart:214:41)
+[info] Use 'const' with the constructor to improve performance (D:\User Experience Ki Stream\KI Stream\kistream\lib\features\music\presentation\pages\favorites_page.dart:98:27)
+[info] 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss (D:\User Experience Ki Stream\KI Stream\kistream\lib\features\profile\presentation\pages\admin_dashboard_page.dart:426:57)
+[info] 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss (D:\User Experience Ki Stream\KI Stream\kistream\lib\features\search\presentation\pages\search_page.dart:48:43)
+[info] 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss (D:\User Experience Ki Stream\KI Stream\kistream\lib\features\search\presentation\pages\search_page.dart:140:33)
+[info] 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss (D:\User Experience Ki Stream\KI Stream\kistream\lib\features\search\presentation\pages\search_page.dart:154:39)

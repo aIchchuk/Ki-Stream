@@ -1,0 +1,8 @@
+﻿Analyzing kistream...                                           
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\main_shell.dart:214:41 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\features\music\presentation\pages\favorites_page.dart:98:27 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\search\presentation\pages\search_page.dart:48:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\search\presentation\pages\search_page.dart:140:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\search\presentation\pages\search_page.dart:154:39 - deprecated_member_use
+
